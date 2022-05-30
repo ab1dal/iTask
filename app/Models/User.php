@@ -55,7 +55,7 @@ class User extends Authenticatable // Unguarded through the AppServiceProver
 
     public function getAvatarAttribute($value)
     {
-        return asset($value ?: '/avatar/default-bruce.webp');
+        return asset($value ?: '/avatar/basic-avatar.jpg');
     }
 
     public function tasks()

@@ -7,5 +7,5 @@
             <li>Mark complete once completed</li>
         </ul>
     </div>
-    <p class="pt-16 w-full text-center">No fuss or distractions, get sh*t done.</p>
+    <p class="pt-16 w-full text-center">“Everything should be made as simple as possible, but not simpler.”</p>
 </x-layout>
